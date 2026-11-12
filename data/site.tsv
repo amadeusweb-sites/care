@@ -16,6 +16,6 @@ mediakit	?palette=default
 |fonts	cursive=Eagle+Lake&menu=Quintessential&menu-size=1.3rem
 
 |technical
-sections	people
+sections	from-tsv
 local-url	http://localhost/amadeusweb/initiatives/care/
 live-url	https://care.amadeusweb.in/
